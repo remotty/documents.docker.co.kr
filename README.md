@@ -5,8 +5,8 @@
 * [Korea Docker User Group(페이스북)][commu-facebook]
 * [Docker Korea][commu-docker-korea]
 
-[commu-facebook]: http://forum.docker.co.kr/
-[commu-docker-korea]: https://www.facebook.com/groups/korea.docker.user.group/
+[commu-facebook]: https://www.facebook.com/groups/korea.docker.user.group/
+[commu-docker-korea]: http://forum.docker.co.kr/
 
 # 문서
 

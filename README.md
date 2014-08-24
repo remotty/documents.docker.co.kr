@@ -143,7 +143,7 @@
 
 ## Service Discovery
 
-## Immutable Infrastrcture
+## Immutable Infrastructure
 
 * [nacyot의 프로그래밍 이야기 - 이미지 기반 어플리케이션 배포 패러다임 Immutable Infrastructure][immu-nacyot]
 

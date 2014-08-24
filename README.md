@@ -169,7 +169,7 @@
 
 * [이렇게 배포해야 할까? - Lightweight Linux Container Docker 를 활용하여 어플리케이션 배포하기 (김영찬)][video-deview-1] -  [Slide][slide-deview-1]
 
-[vidio-deview-1]: http://deview.kr/2013/detail.nhn?topicSeq=45
+[video-deview-1]: http://deview.kr/2013/detail.nhn?topicSeq=45
 [slide-deview-1]: http://www.slideshare.net/modestjude/dockerat-deview-2013
 
 ## Programer 정기 세미나 (2014년 4월 2일)

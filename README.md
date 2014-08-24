@@ -1,9 +1,9 @@
-이 문서는 도커(Docker)에 관련된 한글 문서를 정리한 메타 문서입니다.
+이 문서는 도커(Docker)에 관련된 한글 문서를 정리한 메타 문서입니다. 각 카테고리별 ㄱㄴㄷ 순, 영상은 날짜 순으로 정렬합니다.
 
 # 커뮤니티
 
-[Korea Docker User Group(페이스북][commu-facebook]
-[Docker Korea][commu-docker-korea]
+* [Korea Docker User Group(페이스북][commu-facebook]
+* [Docker Korea][commu-docker-korea]
 
 [commu-facebook]: http://forum.docker.co.kr/
 [commu-docker-korea]: https://www.facebook.com/groups/korea.docker.user.group/
@@ -14,7 +14,7 @@
 
 * [nacyot의 프로그래밍 이야기 - 도커(Docker) 튜토리얼 : 0.8 맥에서 설치하기][install-nacyot-1]
 * [nacyot의 프로그래밍 이야기 - 우분투 14.04(Trusty Tahr)에서 도커(Docker) 설치 및 사용하기][install-nacyot-2]
-* [Seapy's Blog - CentOS 6.3에 Docker 설치하기][intsall-seapy]
+* [Seapy's Blog - CentOS 6.3에 Docker 설치하기][install-seapy]
 * [독거노인 개발자의 우울 - 맥에서 터미널만으로 docker 사용하기: macox + vmware/vmrun + docker][install-iolo]
 * [보리네 - Installation of docker][install-bori]
 * [오픈나루 - CentOS 6.5 에서 Docker 설치하고 Fedroa 이미지 실행해 보기][install-open]
@@ -83,8 +83,8 @@
 
 ### Application 
 
-* [nacyot의 프로그래밍 이야기 - 그라파이트(Grahpite) + 그라파나(Grafana) 모니터링 시스템 구축 with Docker][app-nacoyt-2]
-* [nacyot의 프로그래밍 이야기 - 도커(Docker)로 루비 온 레일스 어플리케이션 배포하기][app-nacyot-1]
+* [nacyot의 프로그래밍 이야기 - 그라파이트(Grahpite) + 그라파나(Grafana) 모니터링 시스템 구축 with Docker][app-nacyot-2]
+* [nacyot의 프로그래밍 이야기 - 도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 #1][app-nacyot-1]
 * [Seapy's Blog - Docker(도커)로 Ruby On Rails 쉽게 배포하기][app-seapy-1]
 * [Seapy's Blog - Docker를 이용한 Jenkins 설치][app-seapy-3]
 * [Seapy's Blog - Jenkins를 이용한 Docker 빌드][app-seapy-2]
@@ -105,20 +105,6 @@
 
 [dockerfile-seapy]: http://seapy.com/2081
 
-## Cloud
-
-* [More Agile - 구글의 클라우드 컴퓨팅 아키텍처 - docker][cloud-more]
-
-[cloud-more]: http://www.moreagile.net/2014/05/ContainersAtScale.html
-
-## Ochestration
-
-* [IT World Korea - 구글, 퀴베르네시스 프로젝트에 클러스터 관리 기술 “메소스(Mesos)” 지원][che-itworld-2]
-* [IT World Korea - 구글의 퀴베르네시스 프로젝트, ‘적과의 동침’을 이루다][oche-itworld-1]
-
-[oche-itworld-1]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/88457
-[oche-itworld-2]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/89034
-
 ## Registry
 
 * [nacyot의 프로그래밍 이야기 - 도커 레지스트리(Docker Registry) 설치하기 + S3 연동][reg-nacyot]
@@ -126,6 +112,18 @@
 
 [reg-nacyot]: http://blog.nacyot.com/articles/2014-05-08-docker-registry-introduction/
 [reg-bori]: http://judekim.tistory.com/19
+
+## Cloud
+
+* [More Agile - 구글의 클라우드 컴퓨팅 아키텍처 - docker][cloud-more]
+
+[cloud-more]: http://www.moreagile.net/2014/05/ContainersAtScale.html
+
+## Platform as a Service
+
+* [nacyot의 프로그래밍 이야기 - 도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)][paas-nacyot]
+
+[paas-nacyot]: http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/
 
 ## CoreOS
 
@@ -135,13 +133,15 @@
 [coreos-iolo]: http://blog.iolo.kr/508
 [coreos-more]: http://www.moreagile.net/2014/07/docker-coreos.html
 
+## Ochestration
+
+* [IT World Korea - 구글의 퀴베르네시스 프로젝트, ‘적과의 동침’을 이루다][oche-itworld-1]
+* [IT World Korea - 구글, 퀴베르네시스 프로젝트에 클러스터 관리 기술 “메소스(Mesos)” 지원][oche-itworld-2]
+
+[oche-itworld-1]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/88457
+[oche-itworld-2]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/89034
+
 ## Service Discovery
-
-## Platform as a Service
-
-* [nacyot의 프로그래밍 이야기 - 도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)][paas-nacyot]
-
-[paas-nacyot]: http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/
 
 ## Immutable Infrastrcture
 
@@ -167,21 +167,21 @@
 
 ## Deview 2013 (2013년 10월 15일)
 
-* [이렇게 배포해야 할까? - Lightweight Linux Container Docker 를 활용하여 어플리케이션 배포하기 (김영찬)][video-deview-1] [Slide][slide-deview-1]
+* [이렇게 배포해야 할까? - Lightweight Linux Container Docker 를 활용하여 어플리케이션 배포하기 (김영찬)][video-deview-1] -  [Slide][slide-deview-1]
 
-[vidie-deview-1]: http://deview.kr/2013/detail.nhn?topicSeq=45
+[vidio-deview-1]: http://deview.kr/2013/detail.nhn?topicSeq=45
 [slide-deview-1]: http://www.slideshare.net/modestjude/dockerat-deview-2013
 
 ## Programer 정기 세미나 (2014년 4월 2일)
 
-* [Immutable Infrastructure (김대권, @nacyot)][video-prog-1] [Slide][slide-prog-1]
+* [Immutable Infrastructure (김대권, @nacyot)][video-prog-1] - [Slide][slide-prog-1]
 
 [video-prog-1]: https://www.youtube.com/watch?v=q_PUKDMhqv4
 [slide-prog-1]: http://www.slideshare.net/ext/immutable-infrastructure123123123
 
 ## RORLab 61회 (2014년 5월 13일)
 
-* 도커(Docker) 소개(김대권, @nacyot) [Slide][slide-rorlab-61]
+* 도커(Docker) 소개(김대권, @nacyot) - [Slide][slide-rorlab-61]
 
 [slide-rorlab-61]: http://blog.nacyot.com/presentations/docker_introduction/
 
@@ -201,8 +201,8 @@
 
 ## Docker Korea Study #1 (2014년 7월 19일)
 
-* [Immutable Infrastructure : 어플리케이션 배포의 새로운 패러다임 (김대권, @nacyot)][video-dks1-1] [Slide][slide-dks1-1]
-* [DOCKER를 이용해 배포할 때 알면 좋은 TIP (김충섭, @subicura)][video-dks1-2] [Slide][slide-dks1-2]
+* [Immutable Infrastructure : 어플리케이션 배포의 새로운 패러다임 (김대권, @nacyot)][video-dks1-1] - [Slide][slide-dks1-1]
+* [DOCKER를 이용해 배포할 때 알면 좋은 TIP (김충섭, @subicura)][video-dks1-2] - [Slide][slide-dks1-2]
 
 [video-dks1-1]: http://www.youtube.com/watch?v=PdI88QNF-1w
 [video-dks1-2]: http://www.youtube.com/watch?v=ix1E8YBOTeA
@@ -212,21 +212,22 @@
 ## Docker Korea Online Meetup #1 (2014년 7월 30일)
 
 * [docker korea online meetup (7/30) (김대권, 김충섭, 정창훈)][video-dko]
-  * [Ambassodor Pattern 슬라이드, @seapy-1][slide-dko-1]
+  * [Ambassodor Pattern 슬라이드, @seapy][slide-dko-1]
   * [Consul 발표자료, @nacyot][slide-dko-2]
   * [CoreOS 슬라이드, @subicura][slide-dko-3]
 
 
 [video-dko]: http://www.youtube.com/watch?v=jBK3T1-1QdI
-[slide-dko-1]: http://slides.com/subicura/coreos-study#/
-[slide-dko-2]: http://slides.com/seapy/docker-ambassador#/
-[slide-dko-3]: https://gist.github.com/nacyot/514b904f7ae569e801e4
+[slide-dko-1]: http://slides.com/seapy/docker-ambassador#/
+[slide-dko-2]: https://gist.github.com/nacyot/514b904f7ae569e801e4
+[slide-dko-3]: http://slides.com/subicura/coreos-study#/
+
 
 ## Docker Korea Study #2 (2014년 8월 2일)
 
-* [도커를 이용한 파이썬 모듈 배포하기 (서준석, @litiblue)][video-dks2-1] [Slide][slide-dks2-1]
-* [도커로 고스트 블로그 플랫폼 5분만에 설치하기 (김한기)][video-dks2-2] [Slide][slide-dks2-2]
-* [Docker Korea 두번째 모임 : Docker와 로그 & 메트릭스 수집 (김대권, @nacyot)][video-dks2-3] [Slide][slide-dks2-3]
+* [도커를 이용한 파이썬 모듈 배포하기 (서준석, @litiblue)][video-dks2-1] - [Slide][slide-dks2-1]
+* [도커로 고스트 블로그 플랫폼 5분만에 설치하기 (김한기)][video-dks2-2] - [Slide][slide-dks2-2]
+* [Docker Korea 두번째 모임 : Docker와 로그 & 메트릭스 수집 (김대권, @nacyot)][video-dks2-3] - [Slide][slide-dks2-3]
 
 [video-dks2-1]: http://www.youtube.com/watch?v=RRT58hbDXNs
 [video-dks2-2]: http://www.youtube.com/watch?v=MGXMRJP4LhQ
@@ -237,10 +238,10 @@
 
 ## Docker Seoul Meetup #1 (2014년 8월 23일)
 
-* pyrasis - Docker란 무엇인가. Docker 기본 사용법 [Slide][slide-dkm1-1]
-* [Docker로 레일스 배포하기 - (정창훈, @seapy)][video-dkm1-2] [Slide][slide-dkm-2]
-* [CoreOS : 설치부터 컨테이너 배포까지 (김충섭, @subicura)][video-dkm1-3] [Slide][slide-dkm-1-3]
-* [Docker History & Ecosystem (김대권, @nacyot)][video-dkm1-4] [Slide][slide-dkm1-4]
+* Docker란 무엇인가. Docker 기본 사용법(이재홍, @pyrasis) - [Slide][slide-dkm1-1]
+* [Docker로 레일스 배포하기 - (정창훈, @seapy)][video-dkm1-2] - [Slide][slide-dkm2-2]
+* [CoreOS : 설치부터 컨테이너 배포까지 (김충섭, @subicura)][video-dkm1-3] - [Slide][slide-dkm1-3]
+* [Docker History & Ecosystem (김대권, @nacyot)][video-dkm1-4] - [Slide][slide-dkm1-4]
 
 [video-dkm1-2]: http://www.youtube.com/watch?v=pcQtXnHXbLQ
 [video-dkm1-3]: http://www.youtube.com/watch?v=pR5MoWHPtQs
@@ -280,6 +281,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE

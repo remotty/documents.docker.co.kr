@@ -239,7 +239,7 @@
 ## Docker Seoul Meetup #1 (2014년 8월 23일)
 
 * Docker란 무엇인가. Docker 기본 사용법(이재홍, @pyrasis) - [Slide][slide-dkm1-1]
-* [Docker로 레일스 배포하기 - (정창훈, @seapy)][video-dkm1-2] - [Slide][slide-dkm2-2]
+* [Docker로 레일스 배포하기 - (정창훈, @seapy)][video-dkm1-2] - [Slide][slide-dkm1-2]
 * [CoreOS : 설치부터 컨테이너 배포까지 (김충섭, @subicura)][video-dkm1-3] - [Slide][slide-dkm1-3]
 * [Docker History & Ecosystem (김대권, @nacyot)][video-dkm1-4] - [Slide][slide-dkm1-4]
 

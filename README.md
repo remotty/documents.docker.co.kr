@@ -2,7 +2,7 @@
 
 # 커뮤니티
 
-* [Korea Docker User Group(페이스북][commu-facebook]
+* [Korea Docker User Group(페이스북)][commu-facebook]
 * [Docker Korea][commu-docker-korea]
 
 [commu-facebook]: http://forum.docker.co.kr/

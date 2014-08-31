@@ -268,7 +268,7 @@
 # Contributors
 
 [![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](https://nacyot.com)
-[![pyrasis](https://avatars2.githubusercontent.com/u/210015?v=2&s=100)])(http://pyrasis.com/)
+[![pyrasis](https://avatars2.githubusercontent.com/u/210015?v=2&s=100)](http://pyrasis.com/)
 
 # License
 

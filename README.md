@@ -42,7 +42,7 @@
 * [Seapy's Blog - Mac에서 Docker 사용하기][usage-seapy]
 * [Spoqa Tech Blog - docker the cloud][usage-spoqa]
 * [독거노인 개발자의 우울 - docker getting started: 왕초보를 위한 docker 입문][usage-iolo]
-* [笑傲江湖 RHEL7에서 Docker Container 사용하기][usage-sho]
+* [笑傲江湖 - RHEL7에서 Docker Container 사용하기][usage-sho]
 
 [usage-iolo]: http://blog.iolo.kr/510
 [usage-nacyot]: http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/

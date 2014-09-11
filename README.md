@@ -15,6 +15,7 @@
 * [nacyot의 프로그래밍 이야기 - 도커(Docker) 튜토리얼 : 0.8 맥에서 설치하기][install-nacyot-1]
 * [nacyot의 프로그래밍 이야기 - 우분투 14.04(Trusty Tahr)에서 도커(Docker) 설치 및 사용하기][install-nacyot-2]
 * [Seapy's Blog - CentOS 6.3에 Docker 설치하기][install-seapy]
+* [YONGBOK BLOG - How to install docker on ubuntu][install-yong]
 * [독거노인 개발자의 우울 - 맥에서 터미널만으로 docker 사용하기: macox + vmware/vmrun + docker][install-iolo]
 * [보리네 - Installation of docker][install-bori]
 * [오픈나루 - CentOS 6.5 에서 Docker 설치하고 Fedroa 이미지 실행해 보기][install-open]
@@ -27,6 +28,7 @@
 [install-useful]: http://usefulparadigm.com/2014/02/10/building-devenv-on-osx-using-docker/
 [install-iolo]: http://blog.iolo.kr/511
 [install-open]: http://opennaru.tistory.com/67
+[install-yong]: http://www.yongbok.net/blog/how-to-install-docker-on-ubuntu/
 
 ## 기초
 
@@ -91,8 +93,10 @@
 * [Seapy's Blog - Docker를 이용한 Jenkins 설치][app-seapy-3]
 * [Seapy's Blog - Jenkins를 이용한 Docker 빌드][app-seapy-2]
 * [Yisangwook - Docker 로 Elasticsearch 클러스터 구성하기][app-yisangwook]
+* [YONGBOK BLOG - How to Running an SSH services in a Docker Container][app-yong]
 * [오픈나루 - Docker 에서 컨테이너를 이용하여 JDV (JBoss Data Virtualization) 워크샵 데모 실행하기][app-open]
 
+[app-yong]: http://www.yongbok.net/blog/category/docker/
 [app-nacyot-1]: http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/
 [app-nacyot-2]: http://blog.nacyot.com/articles/2014-07-17-graphite-with-dokcer/
 [app-seapy-1]: http://seapy.com/2084
@@ -137,11 +141,13 @@
 
 ## Ochestration
 
-* [IT World Korea - 구글의 퀴베르네시스 프로젝트, ‘적과의 동침’을 이루다][oche-itworld-1]
 * [IT World Korea - 구글, 퀴베르네시스 프로젝트에 클러스터 관리 기술 “메소스(Mesos)” 지원][oche-itworld-2]
+* [IT World Korea - 구글의 퀴베르네시스 프로젝트, ‘적과의 동침’을 이루다][oche-itworld-1]
+* [YONGBOK BLOG - Apache Mesos – Cluster Resource Management][oche-yong]
 
 [oche-itworld-1]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/88457
 [oche-itworld-2]: http://www.itworld.co.kr/tags/64073/%EB%8F%84%EC%BB%A4/89034
+[oche-yong]: http://www.yongbok.net/blog/apache-mesos-cluster-resource-management/
 
 ## Service Discovery
 

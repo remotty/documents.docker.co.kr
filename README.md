@@ -12,8 +12,8 @@
 
 ## 설치
 
-* [nacyot의 프로그래밍 이야기 - 도커(Docker) 튜토리얼 : 0.8 맥에서 설치하기][install-nacyot-1]
-* [nacyot의 프로그래밍 이야기 - 우분투 14.04(Trusty Tahr)에서 도커(Docker) 설치 및 사용하기][install-nacyot-2]
+* [nacyot의 프로그래밍 이야기 - 도커(Docker) 튜토리얼 : 0.8 맥에서 설치하기][install-nacyot-2]
+* [nacyot의 프로그래밍 이야기 - 우분투 14.04(Trusty Tahr)에서 도커(Docker) 설치 및 사용하기][install-nacyot-1]
 * [Seapy's Blog - CentOS 6.3에 Docker 설치하기][install-seapy]
 * [YONGBOK BLOG - How to install docker on ubuntu][install-yong]
 * [독거노인 개발자의 우울 - 맥에서 터미널만으로 docker 사용하기: macox + vmware/vmrun + docker][install-iolo]

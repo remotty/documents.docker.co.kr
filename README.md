@@ -193,14 +193,14 @@
 
 ### 본 발표
 
-[Dockerfile과 Bash (이재홍, @pyrasis)][video-dkm2-1] - [slide][slide-dkm2-1]
-[MeaNstack on Docker (구교준)][video-dkm2-2] - [slide][slide-dkm2-2]
-[Confd, systemd, fleet을 이용한 어플리케이션 배포 in CoreOS (김충섭, @subicura)][video-dkm2-3] - [slide][slide-dkm2-3]
+* [Dockerfile과 Bash (이재홍, @pyrasis)][video-dkm2-1] - [slide][slide-dkm2-1]
+* [MeaNstack on Docker (구교준)][video-dkm2-2] - [slide][slide-dkm2-2]
+* [Confd, systemd, fleet을 이용한 어플리케이션 배포 in CoreOS (김충섭, @subicura)][video-dkm2-3] - [slide][slide-dkm2-3]
 
 ### 라이트닝 토크
 
-Contributing to Docker (이형규) - [slide][slide-dkm2-4]
-컨테이너에서 호스트 메트릭스 수집하기 (김대권, @nacyot) - [slide][slide-dkm2-5]
+* Contributing to Docker (이형규) - [slide][slide-dkm2-4]
+* 컨테이너에서 호스트 메트릭스 수집하기 (김대권, @nacyot) - [slide][slide-dkm2-5]
 
 [video-dkm2-1]: http://www.youtube.com/watch?v=mIanxEvAahA
 [video-dkm2-2]: http://www.youtube.com/watch?v=GF7GF3FkYfU

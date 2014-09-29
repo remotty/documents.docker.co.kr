@@ -315,6 +315,7 @@ Contributing to Docker (이형규) - [slide][slide-dkm2-4]
 
 [![nacyot](https://avatars0.githubusercontent.com/u/148919?s=100)](https://nacyot.com)
 [![pyrasis](https://avatars2.githubusercontent.com/u/210015?v=2&s=100)](http://pyrasis.com/)
+[![leeplay](https://avatars1.githubusercontent.com/u/7857613?v=2&s=100)](https://github.com/leeplay)
 
 # License
 

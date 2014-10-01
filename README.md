@@ -199,12 +199,13 @@
 
 ### 라이트닝 토크
 
-* Contributing to Docker (이형규) - [slide][slide-dkm2-4]
+* [Contributing to Docker (이형규, @hyeongkyu.lee)][video-dkm2-4] - [slide][slide-dkm2-4]
 * 컨테이너에서 호스트 메트릭스 수집하기 (김대권, @nacyot) - [slide][slide-dkm2-5]
 
 [video-dkm2-1]: http://www.youtube.com/watch?v=mIanxEvAahA
 [video-dkm2-2]: http://www.youtube.com/watch?v=GF7GF3FkYfU
 [video-dkm2-3]: http://www.youtube.com/watch?v=5ixJCM6pAcg
+[video-dkm2-4]: http://www.youtube.com/watch?v=VVfq4Daxv7U
 [slide-dkm2-1]: http://slides.com/pyrasis/dockerfile-and-bash#/
 [slide-dkm2-2]: http://www.slideshare.net/kjunine/meanstack-on-docker
 [slide-dkm2-3]: http://www.slideshare.net/subicura/confd-systemd-fleet-in-coreos

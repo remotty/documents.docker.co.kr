@@ -2,8 +2,8 @@
 
 # 커뮤니티
 
-* [Korea Docker User Group(페이스북)][commu-facebook]
 * [Docker Korea][commu-docker-korea]
+* [Korea Docker User Group(페이스북)][commu-facebook]
 
 [commu-facebook]: https://www.facebook.com/groups/korea.docker.user.group/
 [commu-docker-korea]: http://forum.docker.co.kr/
@@ -125,6 +125,12 @@
 [reg-ansu-1]: https://blog.ansuchan.com/docker-registry-01-install-on-local-machine/
 [reg-ansu-2]: https://blog.ansuchan.com/docker-registry-02-install-on-ec2-and-s3/
 
+## Deployment Tools
+
+* [Juno-Lab - Fig:Docker를 이용한 배포 툴 , Fig 를 이용하여 장고(Django) 앱 만들고 배포하기][depl-juno]
+
+[depl-juno]:http://junolab.blogspot.kr/2014/09/fig-docker-fig-django.html
+
 ## Cloud
 
 * [More Agile - 구글의 클라우드 컴퓨팅 아키텍처 - docker][cloud-more]
@@ -136,16 +142,6 @@
 * [nacyot의 프로그래밍 이야기 - 도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)][paas-nacyot]
 
 [paas-nacyot]: http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/
-
-## CoreOS
-
-* [More Agile - Docker 전용 경량 리눅스 - CoreOS][coreos-more]
-* [독거노인 개발자의 우울 - mac osx + docker + vmware + coreos][coreos-iolo]
-* [QEMU 환경에서 CoreOS 구동하기][coreos-llo]
-
-[coreos-iolo]: http://blog.iolo.kr/508
-[coreos-more]: http://www.moreagile.net/2014/07/docker-coreos.html
-[coreos-llo]: http://blog.llogs.org/?p=102
 
 ## Ochestration
 
@@ -159,7 +155,26 @@
 [oche-yong]: http://www.yongbok.net/blog/apache-mesos-cluster-resource-management/
 [oche-llo]: http://blog.llogs.org/?p=118
 
+## CoreOS
+
+* [Man Seok Techne Schoe - 가벼운 리눅스 CoreOS][coreos-manseok]
+* [More Agile - Docker 전용 경량 리눅스 - CoreOS][coreos-more]
+* [QEMU 환경에서 CoreOS 구동하기][coreos-llo]
+* [독거노인 개발자의 우울 - mac osx + docker + vmware + coreos][coreos-iolo]
+
+
+[coreos-manseok]: http://manseok.blogspot.kr/2014/10/coreos.html
+[coreos-iolo]: http://blog.iolo.kr/508
+[coreos-more]: http://www.moreagile.net/2014/07/docker-coreos.html
+[coreos-llo]: http://blog.llogs.org/?p=102
+
 ## Service Discovery
+
+* [Juno-Lab - Confd 란 무엇인가?][serdis-juno-1]
+* [Juno-Lab - Python - etcd 활용하기][serdis-juno-2]
+
+[serdis-juno-1]: http://junolab.blogspot.kr/2014/09/confd.html
+[serdis-juno-2]: http://junolab.blogspot.kr/2014/09/python-etcd.html
 
 ## Immutable Infrastructure
 
@@ -173,6 +188,12 @@
 
 [design-twelve]: http://the-twelve-factor-app.herokuapp.com/
 
+## Microsoft Windows
+
+* [블로터 - MS/도커 윈도우 서버용 컨테이너 기술 지원][win-bloter-1]
+
+[win-bloter-1]: http://www.bloter.net/archives/209868
+
 ## 기타
 
 * [nacyot의 프로그래밍 이야기 - Docker Korea 스터디 그룹][etc-nacyot-1]
@@ -181,7 +202,29 @@
 [etc-nacyot-1]: http://blog.nacyot.com/articles/2014-07-26-docker-korea/
 [etc-nacyot-2]: http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/
 
-# 영상
+# 슬라이드 / 영상
+
+## Docker Korea Casual Talk (2014년 10월 15일)
+
+* anarcher - fig 사용하기
+* dobestan - Docker Registry
+* ghmlee - Celestial.io
+* [gopass2002, litiblue - Docker monitoring][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
+* han - 재현 가능한 어플리케이션
+* hyeongkyu.lee - Docker 백엔드 Storage 비교
+* junojunho - Docker Registry on OpenStack Swift
+* [kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
+* nacyot - kubernetes 소개
+* [racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
+* seapy - Dockerize Elasticsearch
+* [subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
+* yongbin - 모니터링 관련
+
+[dkct1-gopass-slide]: https://gist.github.com/gopass2002/41fba8877a1e673341be1
+[dkct1-gopass-github]: https://github.com/DockerKorea/pharos
+[dkct1-kjunine]: http://www.slideshare.net/kjunine/deploying-an-application-with-chef-and-docker4
+[dkct1-racconny]: https://slides.com/seunghokim/docker/
+[dkct1-subicura]: http://www.slideshare.net/subicura/coreos-docker1
 
 ## Deview 2014 (2004년 9월 29일)
 

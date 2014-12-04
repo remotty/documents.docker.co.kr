@@ -8,6 +8,16 @@
 [commu-facebook]: https://www.facebook.com/groups/korea.docker.user.group/
 [commu-docker-korea]: http://forum.docker.co.kr/
 
+# 도서
+
+* [pyrasis.com - 가장 빨리 만나는 도커(Docker) 출간 및 원고 공개][pyrasis-docker-1]
+* [YES24 - 가장 빨리 만나는 도커 by 이재홍][pyrasis-docker-2]
+* [YES24 - 더 도커 북 by James Turnbull(장독대 역)][james-docker-1]
+
+[pyrasis-docker-1]: http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book
+[pyrasis-docker-2]: http://www.yes24.com/24/goods/15291084?scode=032&OzSrank=1
+[james-docker-1]: http://www.yes24.com/24/goods/14865354?scode=032&OzSrank=3
+
 # 문서
 
 ## 설치
@@ -44,8 +54,10 @@
 * [Seapy's Blog - Mac에서 Docker 사용하기][usage-seapy]
 * [Spoqa Tech Blog - docker the cloud][usage-spoqa]
 * [독거노인 개발자의 우울 - docker getting started: 왕초보를 위한 docker 입문][usage-iolo]
+* [야생강아지 WILDPUP - Docker의 소개와 간단한 사용법][usage-wildpup]
 * [笑傲江湖 - RHEL7에서 Docker Container 사용하기][usage-sho]
 
+[usage-wildpup]: http://wildpup.cafe24.com/archives/645
 [usage-iolo]: http://blog.iolo.kr/510
 [usage-nacyot]: http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/
 [usage-pyrasis]: http://pyrasis.com/Docker/Docker-HOWTO
@@ -82,7 +94,9 @@
 ### Docker
 
 * [독거노인 개발자의 우울 - 도커 클라이언트(macosx)에서 도커 컨테이너(maybe ubuntu?)에 터미널로 접속하기][docker-iolo]
+* [BETTER LATE THAN NEVER. - Docker CONTAINER RUN 이야기.][docker-bestna]
 
+[docker-bestna]: https://bestna.wordpress.com/2014/11/10/docker-container-run-%EC%9D%B4%EC%95%BC%EA%B8%B0/
 [docker-iolo]: http://blog.iolo.kr/509
 
 ### Application 
@@ -96,7 +110,9 @@
 * [Yisangwook - Docker 로 Elasticsearch 클러스터 구성하기][app-yisangwook]
 * [YONGBOK BLOG - How to Running an SSH services in a Docker Container][app-yong]
 * [오픈나루 - Docker 에서 컨테이너를 이용하여 JDV (JBoss Data Virtualization) 워크샵 데모 실행하기][app-open]
+* [오픈나루 - CentOS에서 Docker 컨테이너를 설치하고 JBoss Wildfly 실행하기][app-wildfly]
 
+[app-wildfly]: http://opennaru.tistory.com/107
 [app-yong]: http://www.yongbok.net/blog/category/docker/
 [app-nacyot-1]: http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/
 [app-nacyot-2]: http://blog.nacyot.com/articles/2014-07-17-graphite-with-dokcer/
@@ -161,8 +177,10 @@
 * [More Agile - Docker 전용 경량 리눅스 - CoreOS][coreos-more]
 * [QEMU 환경에서 CoreOS 구동하기][coreos-llo]
 * [독거노인 개발자의 우울 - mac osx + docker + vmware + coreos][coreos-iolo]
+* [오늘, 행복하자 - Windows PC 에 CoreOS, Docker 설치하기 (1)][felix-coreos-1] [(2)][felix-coreos-2]
 
-
+[felix-coreos-1]: http://felixblog.tistory.com/110
+[felix-coreos-2]: http://felixblog.tistory.com/111
 [coreos-manseok]: http://manseok.blogspot.kr/2014/10/coreos.html
 [coreos-iolo]: http://blog.iolo.kr/508
 [coreos-more]: http://www.moreagile.net/2014/07/docker-coreos.html
@@ -204,22 +222,72 @@
 
 # 슬라이드 / 영상
 
-## Docker Korea Casual Talk (2014년 10월 15일)
+## Docker Korea Casual Talk #2 (2014년 12월 3일)
 
-* anarcher - fig 사용하기
-* dobestan - Docker Registry
-* ghmlee - Celestial.io
-* [gopass2002, litiblue - Docker monitoring][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
-* han - 재현 가능한 어플리케이션
-* hyeongkyu.lee - Docker 백엔드 Storage 비교
-* junojunho - Docker Registry on OpenStack Swift
-* [kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
-* nacyot - kubernetes 소개
-* [racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
-* seapy - Dockerize Elasticsearch
-* [subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
-* yongbin - 모니터링 관련
+* [@nacyot - Newrelic server agent 도커라이즈][dkct2-nacyot]
+* [@subicura - Very Early Review - Rocket][dkct2-subicura]
+* [@pyrasis - 가장 빨리 만나는 Docker 출간 후기][dkct2-pyrasis]
+* [@famrsbs - 지극히 개인적인 pharos의 미래][dkct2-famersbs]
+* [@seapy - fig 사용기][dkct2-seapy]
+* @pengun - 주제 없음이 주제
+* [@ahastudio - Drone][dkct2-ahastudio]
 
+[dkct2-nacyot]: http://www.slideshare.net/ext/docker-casual-talk-2-dockerizing-newrelicsysmond
+[dkct2-subicura]: http://www.slideshare.net/subicura/very-early-review-rocketcoreos
+[dkct2-pyrasis]: http://www.slideshare.net/pyrasis/dockerbook-epilogue
+[dkct2-famersbs]: https://docs.google.com/presentation/d/1hd0k4_0ILVKHM6Sr1C_avh6aIk-GMCqzAO0omN8MupU/edit?usp=sharing
+[dkct2-seapy]: http://slides.com/seapy/fig-use-story
+[dkct2-ahastudio]: https://www.evernote.com/l/AVal5YTj679KwoWrmQRJrhlFQq0Y9IYb6iU
+
+## 봄싹.BYEBYE(2014) (2014년 11월 30일)
+
+* [도커 사용에 유용한 유틸리티와 팁 (신명수, @anarcher)][spring-anarcher]
+
+[spring-anarcher]: http://slides.com/anarcher/docker-2014-11-30-springsprout#/
+
+## Google Devfair 2014 (2014년 11월 29일)
+
+* [Kubernetes를 통한 컨테이너 클러스터 관리 (김대권, @nacyot)][gdgf-kubernetes]
+
+[gdgf-kubernetes]: [http://www.slideshare.net/ext/devfair-kubernetes-101]
+
+## Docker Global Hackday (2014년 11월 1일)
+
+* 도커란 무엇인가? (김대권, @nacyot) [slide][hackday2-nacyot-slide]
+* [도커 설치하기 및 첫번째 컨테이너 만들기 (장재휴, @bbugguj)][hackday2-bbugguj-video]
+* 도커 이미지와 컨테이너 그리고 Dockerfile (서준석, @litiblue) [slide][hackday2-litiblue-slide]
+* Docker Hub와 Docker Private Registry를 이용한 이미지 관리 (정창훈, @seapy) [slide][hackday2-seapy-slide]
+* [도커로 Ghost 블로그 설치하기 (김한기, @han)][hackday2-han-video]
+* [Docker Global Hackday #2 Seoul Winner - FleetUI][hackday2-fleetui]
+
+[hackday2-seapy-slide]: https://slides.com/seapy/docker-registry
+[hackday2-nacyot-slide]: http://www.slideshare.net/ext/docker-introduction-40983563
+[hackday2-bbugguj-video]: http://www.youtube.com/watch?v=yQNHTdsaxqk&list=UU-TpdzGorF3igglmjCWQhMA
+[hackday2-han-video]: http://www.youtube.com/watch?v=tzqpDJzhk48&list=UU-TpdzGorF3igglmjCWQhMA
+[hackday2-fleetui]: http://www.youtube.com/watch?v=zL_WpBUWYtk&list=UU-TpdzGorF3igglmjCWQhMA
+[hackday2-litiblue-slide]: http://slides.com/johnseo/deck--2
+
+## Docker Korea Casual Talk #1 (2014년 10월 15일)
+
+* [@anarcher - fig 사용하기][dkct1-anarcher-slide]
+* [@dobestan - Docker Registry][dkct1-dobestan-slide]
+* @ghmlee - Celestial.io
+* [@gopass2002, litiblue - Docker monitoring][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
+* @han - 재현 가능한 어플리케이션
+* [@hyeongkyu.lee - Docker 백엔드 Storage 비교][dkct1-lee-slide]
+* [@junojunho - Docker Registry on OpenStack Swift][dkct1-juno-slide]
+* [@kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
+* @nacyot - kubernetes 소개
+* [@racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
+* [@seapy - Dockerize Elasticsearch][dkct-seapy-slide]
+* [@subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
+* @yongbin - 모니터링 관련
+
+[dkct1-juno-slide]: http://junolab.blogspot.kr/2014/10/swift-docker-registry.html
+[dkct1-seapy-slide]: http://slides.com/seapy/dockerize_elasticsearch
+[dkct1-lee-slide]: https://github.com/DockerKorea/pharos1
+[dkct1-dobestan-slide]: http://www.slideshare.net/Remotty/dobestan-docker-registryandbasicauth
+[dkct1-anarcher-slide]: https://gist.github.com/anarcher/a6727f8948a0452239a3
 [dkct1-gopass-slide]: https://gist.github.com/gopass2002/41fba8877a1e673341be1
 [dkct1-gopass-github]: https://github.com/DockerKorea/pharos
 [dkct1-kjunine]: http://www.slideshare.net/kjunine/deploying-an-application-with-chef-and-docker4
@@ -228,7 +296,7 @@
 
 ## Deview 2014 (2004년 9월 29일)
 
-* Docker로 보는 서버 운영의 미래 (김대권) - [Slide][slide-deview-2]
+* Docker로 보는 서버 운영의 미래 (김대권, @nacyot) - [Slide][slide-deview-2]
 
 [slide-deview-2]: https://www.slideshare.net/deview/1a6docker
 
@@ -339,13 +407,21 @@
 [video-deview-1]: http://deview.kr/2013/detail.nhn?topicSeq=45
 [slide-deview-1]: http://www.slideshare.net/modestjude/dockerat-deview-2013
 
+# 영상
+
+* [생활코딩 - Docker][opentutorial-docker]
+
+[opentutorial-docker]: https://opentutorials.org/course/128/8657
+
 # 슬라이드
 
 * [raccoonyy - Docker 간단 가이드][slide-raccoonyy]
 * [yms9654 - minsik's blog - Docker 소개][slide-yms9654]
 * [Docker, 그 기발한 활용법 - dumpdocker 자동 덤프 분석툴][slide-kingcrab]
 * [오픈소스 기반의 레드햇 클라우드 플랫폼 RhCI & Docker with PaaS][slide-leosace]
+* [BuildBuild.io : Docker를 이용한 배포, 관리 자동화 서비스][slide-buildbuild]
 
+[slide-buildbuild]: http://www.slideshare.net/dobestan/ss-41913053
 [slide-raccoonyy]: http://www.slideshare.net/raccoonyy/docker-28358999
 [slide-yms9654]: http://yms9654.github.io/slides/docker-%EC%86%8C%EA%B0%9C/
 [slide-leosace]: http://www.slideshare.net/leosace/rhci-docker-with-paas

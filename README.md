@@ -241,22 +241,22 @@
 
 ## 봄싹.BYEBYE(2014) (2014년 11월 30일)
 
-* [도커 사용에 유용한 유틸리티와 팁 (신명수, @anarcher)][spring-anarcher]
+* 도커 사용에 유용한 유틸리티와 팁 (신명수, @anarcher) - [slide][spring-anarcher]
 
 [spring-anarcher]: http://slides.com/anarcher/docker-2014-11-30-springsprout#/
 
 ## Google Devfair 2014 (2014년 11월 29일)
 
-* [Kubernetes를 통한 컨테이너 클러스터 관리 (김대권, @nacyot)][gdgf-kubernetes]
+* Kubernetes를 통한 컨테이너 클러스터 관리 (김대권, @nacyot) - [slide][gdgf-kubernetes]
 
 [gdgf-kubernetes]: http://www.slideshare.net/ext/devfair-kubernetes-101
 
 ## Docker Global Hackday (2014년 11월 1일)
 
-* 도커란 무엇인가? (김대권, @nacyot) [slide][hackday2-nacyot-slide]
+* 도커란 무엇인가? (김대권, @nacyot) - [slide][hackday2-nacyot-slide]
 * [도커 설치하기 및 첫번째 컨테이너 만들기 (장재휴, @bbugguj)][hackday2-bbugguj-video]
-* 도커 이미지와 컨테이너 그리고 Dockerfile (서준석, @litiblue) [slide][hackday2-litiblue-slide]
-* Docker Hub와 Docker Private Registry를 이용한 이미지 관리 (정창훈, @seapy) [slide][hackday2-seapy-slide]
+* 도커 이미지와 컨테이너 그리고 Dockerfile (서준석, @litiblue) - [slide][hackday2-litiblue-slide]
+* Docker Hub와 Docker Private Registry를 이용한 이미지 관리 (정창훈, @seapy) - [slide][hackday2-seapy-slide]
 * [도커로 Ghost 블로그 설치하기 (김한기, @han)][hackday2-han-video]
 * [Docker Global Hackday #2 Seoul Winner - FleetUI][hackday2-fleetui]
 
@@ -266,6 +266,13 @@
 [hackday2-han-video]: http://www.youtube.com/watch?v=tzqpDJzhk48&list=UU-TpdzGorF3igglmjCWQhMA
 [hackday2-fleetui]: http://www.youtube.com/watch?v=zL_WpBUWYtk&list=UU-TpdzGorF3igglmjCWQhMA
 [hackday2-litiblue-slide]: http://slides.com/johnseo/deck--2
+
+## GDG Cloud Meetup (2014년 10월 28일)
+
+* Docker on GCE 및 실무 적용기 (김영찬) - [slide][gdgcloud-judekim-slide], [repository][gdgcloud-judekim-repo]
+
+[gdgcloud-judekim-slide]: http://www.slideshare.net/modestjude/docker-on-gce-gdg-korea-cloud
+[gdgcloud-judekim-repo]: https://bitbucket.org/jude_lezhin/apache-data-atlassian
 
 ## Docker Korea Casual Talk #1 (2014년 10월 15일)
 
@@ -296,9 +303,10 @@
 
 ## Deview 2014 (2004년 9월 29일)
 
-* Docker로 보는 서버 운영의 미래 (김대권, @nacyot) - [Slide][slide-deview-2]
+* [Docker로 보는 서버 운영의 미래 (김대권, @nacyot)][video-deview-2] - [Slide][slide-deview-2]
 
 [slide-deview-2]: https://www.slideshare.net/deview/1a6docker
+[video-deview-2]: http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=13782279B938A2B6E2B520B7933A170CBA14&outKey=V1221353c4898d58e2284021dc9e8493b2099086b9a0bc09a3a92021dc9e8493b2099&controlBarMovable=true&jsCallable=true
 
 ## Docker Seoul Meetup #2 (2014년)
 

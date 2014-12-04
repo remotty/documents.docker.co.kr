@@ -279,7 +279,7 @@
 * [@kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
 * @nacyot - kubernetes 소개
 * [@racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
-* [@seapy - Dockerize Elasticsearch][dkct-seapy-slide]
+* [@seapy - Dockerize Elasticsearch][dkct1-seapy-slide]
 * [@subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
 * @yongbin - 모니터링 관련
 

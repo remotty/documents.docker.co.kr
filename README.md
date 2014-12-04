@@ -249,7 +249,7 @@
 
 * [Kubernetes를 통한 컨테이너 클러스터 관리 (김대권, @nacyot)][gdgf-kubernetes]
 
-[gdgf-kubernetes]: [http://www.slideshare.net/ext/devfair-kubernetes-101]
+[gdgf-kubernetes]: http://www.slideshare.net/ext/devfair-kubernetes-101
 
 ## Docker Global Hackday (2014년 11월 1일)
 

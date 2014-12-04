@@ -286,7 +286,7 @@
 [dkct1-juno-slide]: http://junolab.blogspot.kr/2014/10/swift-docker-registry.html
 [dkct1-seapy-slide]: http://slides.com/seapy/dockerize_elasticsearch
 [dkct1-lee-slide]: https://github.com/DockerKorea/pharos1
-[dkct1-dobestan-slide]: http://www.slideshxare.net/Remotty/dobestan-docker-registryandbasicauth
+[dkct1-dobestan-slide]: http://www.slideshare.net/Remotty/dobestan-docker-registryandbasicauth
 [dkct1-anarcher-slide]: https://gist.github.com/anarcher/a6727f8948a0452239a3
 [dkct1-gopass-slide]: https://gist.github.com/gopass2002/41fba8877a1e673341be1
 [dkct1-gopass-github]: https://github.com/DockerKorea/pharos

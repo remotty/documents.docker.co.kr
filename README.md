@@ -10,12 +10,12 @@
 
 # 도서
 
-* [pyrasis.com - 가장 빨리 만나는 도커(Docker) 출간 및 원고 공개][pyrasis-dokcer-1]
+* [pyrasis.com - 가장 빨리 만나는 도커(Docker) 출간 및 원고 공개][pyrasis-docker-1]
 * [YES24 - 가장 빨리 만나는 도커 by 이재홍][pyrasis-docker-2]
 * [YES24 - 더 도커 북 by James Turnbull(장독대 역)][james-docker-1]
 
-[pyrasis-dokcer-1]: http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book
-[pyrasis-dokcer-2]: http://www.yes24.com/24/goods/15291084?scode=032&OzSrank=1
+[pyrasis-docker-1]: http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book
+[pyrasis-docker-2]: http://www.yes24.com/24/goods/15291084?scode=032&OzSrank=1
 [james-docker-1]: http://www.yes24.com/24/goods/14865354?scode=032&OzSrank=3
 
 # 문서
@@ -410,7 +410,7 @@
 
 * [생활코딩 - Docker][opentutorial-docker]
 
-[opentutorial-docker][https://opentutorials.org/course/128/8657]
+[opentutorial-docker]: https://opentutorials.org/course/128/8657
 
 # 슬라이드
 

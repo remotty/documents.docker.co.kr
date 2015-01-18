@@ -53,9 +53,11 @@
 * [salfactory - Mac OS X에서 docker 설치하기(시작하기)][usage-salfactory]
 * [Seapy's Blog - Mac에서 Docker 사용하기][usage-seapy]
 * [Spoqa Tech Blog - docker the cloud][usage-spoqa]
+* [笑傲江湖 - RHEL7에서 Docker Container 사용하기][usage-sho]
 * [독거노인 개발자의 우울 - docker getting started: 왕초보를 위한 docker 입문][usage-iolo]
 * [야생강아지 WILDPUP - Docker의 소개와 간단한 사용법][usage-wildpup]
-* [笑傲江湖 - RHEL7에서 Docker Container 사용하기][usage-sho]
+* [월풍도원 - Docker][usage-wol]
+
 
 [usage-wildpup]: http://wildpup.cafe24.com/archives/645
 [usage-iolo]: http://blog.iolo.kr/510
@@ -69,6 +71,7 @@
 [usage-rkttu]: http://www.rkttu.com/?p=1577
 [usage-anarcher]: http://anarcher.bitbucket.org/2014-06-19-docker-deployment.html
 [usage-sho]: http://blog.naver.com/wonzer0/220029292959
+[usage-wol]: http://www.dorajistyle.pe.kr/2015/01/docker.html
 
 ### 소개 + 개념
 
@@ -93,11 +96,15 @@
 
 ### Docker
 
-* [독거노인 개발자의 우울 - 도커 클라이언트(macosx)에서 도커 컨테이너(maybe ubuntu?)에 터미널로 접속하기][docker-iolo]
 * [BETTER LATE THAN NEVER. - Docker CONTAINER RUN 이야기.][docker-bestna]
+* [SHIM WON - "본격적으로" 쓰는 Docker(한국어 번역)][docker-shim-2]
+* [SHIM WON - Docker 컨테이너 안에 SSHD를 실행하면 안 되는 이유(한국어 번역)][docker-shim-1]
+* [독거노인 개발자의 우울 - 도커 클라이언트(macosx)에서 도커 컨테이너(maybe ubuntu?)에 터미널로 접속하기][docker-iolo]
 
 [docker-bestna]: https://bestna.wordpress.com/2014/11/10/docker-container-run-%EC%9D%B4%EC%95%BC%EA%B8%B0/
 [docker-iolo]: http://blog.iolo.kr/509
+[docker-shim-1]: https://dayone.me/16REzOh
+[docker-shim-2]: https://dayone.me/1agvzvw
 
 ### Application 
 
@@ -107,10 +114,11 @@
 * [Seapy's Blog - Docker(도커)로 Ruby On Rails 쉽게 배포하기][app-seapy-1]
 * [Seapy's Blog - Docker를 이용한 Jenkins 설치][app-seapy-3]
 * [Seapy's Blog - Jenkins를 이용한 Docker 빌드][app-seapy-2]
+* [Valley Of Wind - newrelic-sysmond를 docker container로 실행하여 host 모니터링][app-valley]
 * [Yisangwook - Docker 로 Elasticsearch 클러스터 구성하기][app-yisangwook]
 * [YONGBOK BLOG - How to Running an SSH services in a Docker Container][app-yong]
-* [오픈나루 - Docker 에서 컨테이너를 이용하여 JDV (JBoss Data Virtualization) 워크샵 데모 실행하기][app-open]
 * [오픈나루 - CentOS에서 Docker 컨테이너를 설치하고 JBoss Wildfly 실행하기][app-wildfly]
+* [오픈나루 - Docker 에서 컨테이너를 이용하여 JDV (JBoss Data Virtualization) 워크샵 데모 실행하기][app-open]
 
 [app-wildfly]: http://opennaru.tistory.com/107
 [app-yong]: http://www.yongbok.net/blog/category/docker/
@@ -122,12 +130,15 @@
 [app-yisangwook]: http://yisangwook.tumblr.com/post/88360201559/docker-elasticsearch-cluster
 [app-open]: http://opennaru.tistory.com/68
 [app-salt]: http://blog.saltfactory.net/261
+[app-valley]: http://valleyofwind.tumblr.com/post/106775820762/newrelic-sysmond-docker-container-host
 
 ## Dockerfile
 
 * [Seapy's Blog - Dockerfile에 bitbucket 접근권한 설정][dockerfile-seapy]
+* [SHIM WON - 좋은 Docker 이미지 만들기(한국어 번역)][dockerfile-shim]
 
 [dockerfile-seapy]: http://seapy.com/2081
+[dockerfile-shim]: https://dayone.me/1740z5r
 
 ## Registry
 
@@ -216,9 +227,13 @@
 
 * [nacyot의 프로그래밍 이야기 - Docker Korea 스터디 그룹][etc-nacyot-1]
 * [nacyot의 프로그래밍 이야기 - Docker Korea 스터디 그룹 두번째 모임][etc-nacyot-2]
+* [Outsider's Dev Story - Docker 명령어 자동 완성][etc-outsider-1]
+* [Outsider's Dev Story - TravisCI에서 Docker 기반의 인프라 활성화하기][etc-outsider-2]
 
 [etc-nacyot-1]: http://blog.nacyot.com/articles/2014-07-26-docker-korea/
 [etc-nacyot-2]: http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/
+[etc-outsider-1]: http://blog.outsider.ne.kr/1106
+[etc-outsider-2]: http://blog.outsider.ne.kr/1118
 
 # 슬라이드 / 영상
 
@@ -428,12 +443,16 @@
 * [Docker, 그 기발한 활용법 - dumpdocker 자동 덤프 분석툴][slide-kingcrab]
 * [오픈소스 기반의 레드햇 클라우드 플랫폼 RhCI & Docker with PaaS][slide-leosace]
 * [BuildBuild.io : Docker를 이용한 배포, 관리 자동화 서비스][slide-buildbuild]
+* [Wonchang Song - Docker 소개 30 m][slide-wong]
+* [DK LEE - Dokcer 서버, 가상화 그다음은?][slide-dk]
 
 [slide-buildbuild]: http://www.slideshare.net/dobestan/ss-41913053
 [slide-raccoonyy]: http://www.slideshare.net/raccoonyy/docker-28358999
 [slide-yms9654]: http://yms9654.github.io/slides/docker-%EC%86%8C%EA%B0%9C/
 [slide-leosace]: http://www.slideshare.net/leosace/rhci-docker-with-paas
 [slide-kingcrab]: http://www.slideshare.net/kingcrab/do-39544155
+[slide-wong]: http://www.slideshare.net/WonchangSong1/docker30-m
+[slide-dk]: http://www.slideshare.net/origoni/201412-dklee-docker
 
 # Contribution
 

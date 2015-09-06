@@ -433,8 +433,10 @@
 # 영상
 
 * [생활코딩 - Docker][opentutorial-docker]
+* [초보의 도커 간증 - 박성재님][docker-seoul-meetup-3rd]
 
 [opentutorial-docker]: https://opentutorials.org/course/128/8657
+[docker-seoul-meetup-3rd]: https://www.youtube.com/watch?v=j3M8-R8GzXQ
 
 # 슬라이드
 
@@ -445,6 +447,7 @@
 * [BuildBuild.io : Docker를 이용한 배포, 관리 자동화 서비스][slide-buildbuild]
 * [Wonchang Song - Docker 소개 30 m][slide-wong]
 * [DK LEE - Dokcer 서버, 가상화 그다음은?][slide-dk]
+* [Docker를 활용한 서비스 배포 — 스마트스터디에서의 사용사례][slide-deploy]
 
 [slide-buildbuild]: http://www.slideshare.net/dobestan/ss-41913053
 [slide-raccoonyy]: http://www.slideshare.net/raccoonyy/docker-28358999
@@ -453,6 +456,7 @@
 [slide-kingcrab]: http://www.slideshare.net/kingcrab/do-39544155
 [slide-wong]: http://www.slideshare.net/WonchangSong1/docker30-m
 [slide-dk]: http://www.slideshare.net/origoni/201412-dklee-docker
+[slide-deploy]: https://speakerdeck.com/kroisse/aws-cloud-taekwon-dockerreul-hwalyonghan-seobiseu-baepo-seumateuseuteodieseoyi-sayongsarye
 
 # Contribution
 

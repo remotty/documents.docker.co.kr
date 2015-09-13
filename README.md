@@ -267,7 +267,7 @@
 * [Amazon ec2 container service 소개][video-dkm3-4] (정창훈) - [Slide][slide-dkm3-4]
 * [도커 학습과 Boot2Docker][video-dkm3-5] (이재홍) - [Slide][slide-dkm3-5]
 * [초보의 도커 간증][video-dkm3-6] (박성재) - [Slide][slide-dkm3-6]
-* drone.io on the Docker (장동주) - [Slide][slide-dkm3-7]
+* [drone.io on the Docker][video-dkm3-7] (장동주)
 * [Launching containers with fleet][video-dkm3-8] (김충섭) - [Slide][slide-dkm3-8]
 
 [video-dkm3-1]: https://www.youtube.com/watch?v=DZOu7GkXULI

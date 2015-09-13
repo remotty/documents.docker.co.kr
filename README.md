@@ -10,7 +10,7 @@
 
 # 도서
 
-* [pyrasis.com - 가장 빨리 만나는 도커(Docker) 출간 및 원고 공개][pyrasis-docker-1]
+* [PYRASIS.COM - 가장 빨리 만나는 도커(Docker) 출간 및 원고 공개][pyrasis-docker-1]
 * [YES24 - 가장 빨리 만나는 도커 by 이재홍][pyrasis-docker-2]
 * [YES24 - 더 도커 북 by James Turnbull(장독대 역)][james-docker-1]
 
@@ -403,12 +403,13 @@
 
 ### 라이트닝 토크
 
-* Contributing to Docker (이형규) - [slide][slide-dkm2-4]
+* [Contributing to Docker (이형규, @hyeongkyu.lee)][video-dkm2-4] - [slide][slide-dkm2-4]
 * 컨테이너에서 호스트 메트릭스 수집하기 (김대권, @nacyot) - [slide][slide-dkm2-5]
 
 [video-dkm2-1]: http://www.youtube.com/watch?v=mIanxEvAahA
 [video-dkm2-2]: http://www.youtube.com/watch?v=GF7GF3FkYfU
 [video-dkm2-3]: http://www.youtube.com/watch?v=5ixJCM6pAcg
+[video-dkm2-4]: http://www.youtube.com/watch?v=VVfq4Daxv7U
 [slide-dkm2-1]: http://slides.com/pyrasis/dockerfile-and-bash#/
 [slide-dkm2-2]: http://www.slideshare.net/kjunine/meanstack-on-docker
 [slide-dkm2-3]: http://www.slideshare.net/subicura/confd-systemd-fleet-in-coreos
@@ -502,8 +503,10 @@
 # 영상
 
 * [생활코딩 - Docker][opentutorial-docker]
+* [초보의 도커 간증 - 박성재님][docker-seoul-meetup-3rd]
 
 [opentutorial-docker]: https://opentutorials.org/course/128/8657
+[docker-seoul-meetup-3rd]: https://www.youtube.com/watch?v=j3M8-R8GzXQ
 
 # 슬라이드
 
@@ -514,6 +517,7 @@
 * [BuildBuild.io : Docker를 이용한 배포, 관리 자동화 서비스][slide-buildbuild]
 * [Wonchang Song - Docker 소개 30 m][slide-wong]
 * [DK LEE - Dokcer 서버, 가상화 그다음은?][slide-dk]
+* [Docker를 활용한 서비스 배포 — 스마트스터디에서의 사용사례][slide-deploy]
 
 [slide-buildbuild]: http://www.slideshare.net/dobestan/ss-41913053
 [slide-raccoonyy]: http://www.slideshare.net/raccoonyy/docker-28358999
@@ -522,6 +526,7 @@
 [slide-kingcrab]: http://www.slideshare.net/kingcrab/do-39544155
 [slide-wong]: http://www.slideshare.net/WonchangSong1/docker30-m
 [slide-dk]: http://www.slideshare.net/origoni/201412-dklee-docker
+[slide-deploy]: https://speakerdeck.com/kroisse/aws-cloud-taekwon-dockerreul-hwalyonghan-seobiseu-baepo-seumateuseuteodieseoyi-sayongsarye
 
 # Contribution
 

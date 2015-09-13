@@ -503,10 +503,8 @@
 # 영상
 
 * [생활코딩 - Docker][opentutorial-docker]
-* [초보의 도커 간증 - 박성재님][docker-seoul-meetup-3rd]
 
 [opentutorial-docker]: https://opentutorials.org/course/128/8657
-[docker-seoul-meetup-3rd]: https://www.youtube.com/watch?v=j3M8-R8GzXQ
 
 # 슬라이드
 

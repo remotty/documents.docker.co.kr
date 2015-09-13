@@ -239,13 +239,13 @@
 
 ## Docker Korea Casual Talk #2 (2014년 12월 3일)
 
-* [@nacyot - Newrelic server agent 도커라이즈][dkct2-nacyot]
-* [@subicura - Very Early Review - Rocket][dkct2-subicura]
-* [@pyrasis - 가장 빨리 만나는 Docker 출간 후기][dkct2-pyrasis]
-* [@famrsbs - 지극히 개인적인 pharos의 미래][dkct2-famersbs]
-* [@seapy - fig 사용기][dkct2-seapy]
-* @pengun - 주제 없음이 주제
-* [@ahastudio - Drone][dkct2-ahastudio]
+* [Newrelic server agent 도커라이즈 (@nacyot)][dkct2-nacyot]
+* [Very Early Review - Rocket (@subicura)][dkct2-subicura]
+* [가장 빨리 만나는 Docker 출간 후기 (@pyrasis)][dkct2-pyrasis]
+* [지극히 개인적인 pharos의 미래 (@famrsbs)][dkct2-famersbs]
+* [fig 사용기 (@seapy)][dkct2-seapy]
+* [Drone (@ahastudio)][dkct2-ahastudio]
+* 주제 없음이 주제 (@pengun)
 
 [dkct2-nacyot]: http://www.slideshare.net/ext/docker-casual-talk-2-dockerizing-newrelicsysmond
 [dkct2-subicura]: http://www.slideshare.net/subicura/very-early-review-rocketcoreos
@@ -291,19 +291,19 @@
 
 ## Docker Korea Casual Talk #1 (2014년 10월 15일)
 
-* [@anarcher - fig 사용하기][dkct1-anarcher-slide]
-* [@dobestan - Docker Registry][dkct1-dobestan-slide]
-* @ghmlee - Celestial.io
-* [@gopass2002, litiblue - Docker monitoring][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
-* @han - 재현 가능한 어플리케이션
-* [@hyeongkyu.lee - Docker 백엔드 Storage 비교][dkct1-lee-slide]
-* [@junojunho - Docker Registry on OpenStack Swift][dkct1-juno-slide]
-* [@kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
-* @nacyot - kubernetes 소개
-* [@racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
-* [@seapy - Dockerize Elasticsearch][dkct1-seapy-slide]
-* [@subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
-* @yongbin - 모니터링 관련
+* [fig 사용하기 (@anarcher)][dkct1-anarcher-slide]
+* [Docker Registry (@dobestan)][dkct1-dobestan-slide]
+* Celestial.io (@ghmlee)
+* [Docker monitoring (@gopass2002, @litiblue)][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
+* 재현 가능한 어플리케이션 (@han)
+* [Docker 백엔드 Storage 비교 (@hyeongkyu.lee)][dkct1-lee-slide]
+* [Docker Registry on OpenStack Swift (@junojunho)][dkct1-juno-slide]
+* [Deploying an application with Chef and Docker (@kjunine)][dkct1-kjunine]
+* kubernetes 소개 (@nacyot)
+* [Docker에 대해 가지고 있던 오해 + 실서비스 도입기 (@racconny)][dkct1-racconny]
+* [Dockerize Elasticsearch (@seapy)][dkct1-seapy-slide]
+* [CoreOS를 이용한 도커 컨테이너 관리 툴 (@subicura)][dkct1-subicura]
+* 모니터링 관련 (@yongbin)
 
 [dkct1-juno-slide]: http://junolab.blogspot.kr/2014/10/swift-docker-registry.html
 [dkct1-seapy-slide]: http://slides.com/seapy/dockerize_elasticsearch

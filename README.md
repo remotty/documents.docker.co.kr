@@ -237,15 +237,85 @@
 
 # 슬라이드 / 영상
 
+## Docker Seoul Meetup #4 (2015년 9월 5일)
+
+* Mesos on CoreOS (김충섭) - [Slide][slide-dkm4-1]
+* Amazon EC2 Container Service in Action (윤석찬) - [Slide][slide-dkm4-2]
+* Multi-Host networking with Docker (신명수) - [Slide][slide-dkm4-3]
+* 형태소 분석기를 적용한 elasticsearch 운영 (정창훈) - [Slide][slide-dkm4-4]
+* Jenkins on Docker (황상철) - [Slide][slide-dkm4-5]
+* Docker Orchestration (김호진) - [Slide][slide-dkm4-6]
+* Docker Toolbox (김용휘) - [Slide][slide-dkm4-7]
+* 패커(Packer)를 통한 AMI 자동 빌드 시스템 구축 (김대권) - [Slide][slide-dkm4-8]
+* RancherOS Introduction (김종연) - [Slide][slide-dkm4-9]
+
+[slide-dkm4-1]: http://www.slideshare.net/subicura/mesos-on-coreos
+[slide-dkm4-2]: http://www.slideshare.net/Remotty/amazon-ec2-container-service-in-action
+[slide-dkm4-3]: https://speakerdeck.com/anarcher/multi-host-networking-with-docker
+[slide-dkm4-4]: http://www.slideshare.net/seapy/elasticsearch-52463195
+[slide-dkm4-5]: http://slides.com/k16wire/deck-5
+[slide-dkm4-6]: http://www.slideshare.net/osc_hojinkim/docker-orchestration
+[slide-dkm4-7]: http://www.slideshare.net/yonghweekim
+[slide-dkm4-8]: https://speakerdeck.com/nacyot/packerreul-tonghan-ami-jadong-bildeu-siseutem-gucug
+[slide-dkm4-9]: http://www.slideshare.net/Remotty/rancheros-introduction
+
+## Docker Seoul Meetup #3 (2015년 2월 14일)
+
+* [About Docker Swarm][video-dkm3-1] (신명수) - [Slide][slide-dkm3-1]
+* [docker-based remote desktop][video-dkm3-2] (이형규) - [Slide][slide-dkm3-2]
+* [Docker기반 분산 플랫폼][video-dkm3-3] (정성현) - [Slide][slide-dkm3-3]
+* [Amazon ec2 container service 소개][video-dkm3-4] (정창훈) - [Slide][slide-dkm3-4]
+* [도커 학습과 Boot2Docker][video-dkm3-5] (이재홍) - [Slide][slide-dkm3-5]
+* [초보의 도커 간증][video-dkm3-6] (박성재) - [Slide][slide-dkm3-6]
+* [drone.io on the Docker][video-dkm3-7] (장동주)
+* [Launching containers with fleet][video-dkm3-8] (김충섭) - [Slide][slide-dkm3-8]
+
+[video-dkm3-1]: https://www.youtube.com/watch?v=DZOu7GkXULI
+[slide-dkm3-1]: https://speakerdeck.com/anarcher/about-docker-swarm
+[video-dkm3-2]: https://www.youtube.com/watch?v=wReN7LG2zJg
+[slide-dkm3-2]: http://www.slideshare.net/HyeongKyuLee/vdi-44580394
+[video-dkm3-3]: https://www.youtube.com/watch?v=mQRM8GTDzgc
+[slide-dkm3-3]: http://www.slideshare.net/gopass2002/docker-44676388
+[video-dkm3-4]: https://www.youtube.com/watch?v=f4Gx369wtF8
+[slide-dkm3-4]: http://www.slideshare.net/seapy/amazon-ec2-container-service
+[video-dkm3-5]: https://www.youtube.com/watch?v=MqL5exxZDg4
+[slide-dkm3-5]: http://www.slideshare.net/pyr…/learning-dockerandboot2docker
+[video-dkm3-6]: https://www.youtube.com/watch?v=j3M8-R8GzXQ
+[slide-dkm3-6]: http://www.slideshare.net/Seon…/sw-install-withwithoutdocker
+[video-dkm3-7]: https://www.youtube.com/watch?v=kGET05mD6FM
+[video-dkm3-8]: https://www.youtube.com/watch?v=_UGiwh0yO28
+[slide-dkm3-8]: http://www.slideshare.net/s…/launching-containers-with-fleet
+
+## Docker Korea Casual Talk #3 (2015년 1월 26일)
+
+* [Automatic Docker Service Announcement with registrator and confd (@subicura, 김충섭)][dkct3-subicura]
+* [도커 기반 원격 코드 실행기 (@nacyot, 김대권)][dkct3-nacyot]
+* [capistrano & docker (@marocchino)][dkct3-maro]
+* [boot2docker 사용시 컨테이너에서 생성한 데이터를 유지하기 (@seapy, 정창훈)][dkct3-seapy]
+* [Docker mini-containers project 소개 (@anarcher, 신명수)][dkct3-anar]
+* [Kitematic - docker management tool 소개 (@pengun, 한승호)][dkct3-pengun]
+* [Keymaker - 경량화 컨테이너로 SSH 공개키 관리하기 (@ghmlee, 이한철)][dkct3-ghmlee]
+* [Docker on the Mac with CoreOS (@chanshik, 임찬식)][dkct3-chan]
+* Docker Image란? (@brann, 박지훈)
+
+[dkct3-subicura]: http://www.slideshare.net/subicura/automatic-docker-service-announcement-with-registrator-and-confd
+[dkct3-nacyot]: https://speakerdeck.com/nacyot/docker-giban-weongyeog-kodeu-silhaenggi
+[dkct3-maro]: https://dl.dropboxusercontent.com/u/2607170/150126_capistrano_docker.zip
+[dkct3-seapy]: http://www.slideshare.net/seapy/docker-boot2docker
+[dkct3-anar]: https://gist.github.com/anarcher/150b303e4abdf1af09c4
+[dkct3-pengun]: http://slides.com/pengun/deck
+[dkct3-ghmlee]: https://github.com/ghmlee/keymaker
+[dkct3-chan]: http://bit.ly/1uutfIk 
+
 ## Docker Korea Casual Talk #2 (2014년 12월 3일)
 
-* [@nacyot - Newrelic server agent 도커라이즈][dkct2-nacyot]
-* [@subicura - Very Early Review - Rocket][dkct2-subicura]
-* [@pyrasis - 가장 빨리 만나는 Docker 출간 후기][dkct2-pyrasis]
-* [@famrsbs - 지극히 개인적인 pharos의 미래][dkct2-famersbs]
-* [@seapy - fig 사용기][dkct2-seapy]
-* @pengun - 주제 없음이 주제
-* [@ahastudio - Drone][dkct2-ahastudio]
+* [Newrelic server agent 도커라이즈 (@nacyot)][dkct2-nacyot]
+* [Very Early Review - Rocket (@subicura)][dkct2-subicura]
+* [가장 빨리 만나는 Docker 출간 후기 (@pyrasis)][dkct2-pyrasis]
+* [지극히 개인적인 pharos의 미래 (@famrsbs)][dkct2-famersbs]
+* [fig 사용기 (@seapy)][dkct2-seapy]
+* [Drone (@ahastudio)][dkct2-ahastudio]
+* 주제 없음이 주제 (@pengun)
 
 [dkct2-nacyot]: http://www.slideshare.net/ext/docker-casual-talk-2-dockerizing-newrelicsysmond
 [dkct2-subicura]: http://www.slideshare.net/subicura/very-early-review-rocketcoreos
@@ -291,19 +361,19 @@
 
 ## Docker Korea Casual Talk #1 (2014년 10월 15일)
 
-* [@anarcher - fig 사용하기][dkct1-anarcher-slide]
-* [@dobestan - Docker Registry][dkct1-dobestan-slide]
-* @ghmlee - Celestial.io
-* [@gopass2002, litiblue - Docker monitoring][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
-* @han - 재현 가능한 어플리케이션
-* [@hyeongkyu.lee - Docker 백엔드 Storage 비교][dkct1-lee-slide]
-* [@junojunho - Docker Registry on OpenStack Swift][dkct1-juno-slide]
-* [@kjunine - Deploying an application with Chef and Docker][dkct1-kjunine]
-* @nacyot - kubernetes 소개
-* [@racconny - Docker에 대해 가지고 있던 오해 + 실서비스 도입기][dkct1-racconny]
-* [@seapy - Dockerize Elasticsearch][dkct1-seapy-slide]
-* [@subicura - CoreOS를 이용한 도커 컨테이너 관리 툴][dkct1-subicura]
-* @yongbin - 모니터링 관련
+* [fig 사용하기 (@anarcher)][dkct1-anarcher-slide]
+* [Docker Registry (@dobestan)][dkct1-dobestan-slide]
+* Celestial.io (@ghmlee)
+* [Docker monitoring (@gopass2002, @litiblue)][dkct1-gopass-slide] - [Github][dkct1-gopass-github]
+* 재현 가능한 어플리케이션 (@han)
+* [Docker 백엔드 Storage 비교 (@hyeongkyu.lee)][dkct1-lee-slide]
+* [Docker Registry on OpenStack Swift (@junojunho)][dkct1-juno-slide]
+* [Deploying an application with Chef and Docker (@kjunine)][dkct1-kjunine]
+* kubernetes 소개 (@nacyot)
+* [Docker에 대해 가지고 있던 오해 + 실서비스 도입기 (@racconny)][dkct1-racconny]
+* [Dockerize Elasticsearch (@seapy)][dkct1-seapy-slide]
+* [CoreOS를 이용한 도커 컨테이너 관리 툴 (@subicura)][dkct1-subicura]
+* 모니터링 관련 (@yongbin)
 
 [dkct1-juno-slide]: http://junolab.blogspot.kr/2014/10/swift-docker-registry.html
 [dkct1-seapy-slide]: http://slides.com/seapy/dockerize_elasticsearch
@@ -433,10 +503,8 @@
 # 영상
 
 * [생활코딩 - Docker][opentutorial-docker]
-* [초보의 도커 간증 - 박성재님][docker-seoul-meetup-3rd]
 
 [opentutorial-docker]: https://opentutorials.org/course/128/8657
-[docker-seoul-meetup-3rd]: https://www.youtube.com/watch?v=j3M8-R8GzXQ
 
 # 슬라이드
 
